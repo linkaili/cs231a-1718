@@ -1,2 +1,0 @@
-# cs231a
-project
